@@ -6,7 +6,7 @@
 
 ## Ports
 
-- Configure Smart Audio (if availeble)
+- Configure Smart Audio (if available)
 
 - Configure GPS (if available
 
