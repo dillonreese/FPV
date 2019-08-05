@@ -1,7 +1,7 @@
 # Hardware 
 
 - [Checklist](#checklist)
-- [Considerations](#considersitons)
+- [Considerations](#considerations)
 
 ## Checklist
 
