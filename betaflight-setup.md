@@ -12,7 +12,7 @@
 
 ## Configuration
 
-- **ESC/Motor Features**: set `DSHOT 600`.
+- **ESC/Motor Features**: set to at least `DSHOT 600` (DSHOT1200/2400 if hardware allows).
 
 - **Receiver**: Set `Serial-based receiver`; `SBUS`.
 
