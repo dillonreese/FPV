@@ -27,6 +27,6 @@
 
 - Radio antenna secure.
 
-- ESCs covered with cut piece of prop (if indidiual ESCs on arms).
+- ESCs covered with cut piece of prop (if individual ESCs on arms).
 
 - XT60 secure and clear of props
