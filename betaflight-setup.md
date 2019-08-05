@@ -44,6 +44,8 @@
 
 ## PID Tuning
 
+**3" Acrobrat** 
+
 ![Pid Tab](images/pid-tab.png)
 
 ## Receiver
