@@ -1,5 +1,7 @@
 # Betaflight Setup
 
+[Betaflight Configurator Download](https://github.com/betaflight/betaflight-configurator/releases)
+
 ## Setup
 
 - Verify orientation by moving quad and ensuring model on screen moves accordingly. 
