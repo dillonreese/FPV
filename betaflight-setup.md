@@ -58,7 +58,7 @@
 
 ## Modes
 
-Set:
+Set each to a switch:
 
 - Arm
 - Beeper
