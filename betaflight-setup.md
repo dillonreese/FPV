@@ -1,5 +1,7 @@
 # Betaflight Setup
 
+## Downloads
+
 [Betaflight Configurator Download](https://github.com/betaflight/betaflight-configurator/releases)
 
 ## Setup
