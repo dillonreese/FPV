@@ -42,10 +42,8 @@ _Ports_
 ### Synergy F4
 
 ![](images/synergy-fc-top.png)
-_top_
 
 ![](images/synergy-f4-bottom.png)
-_bottom_
 
 ### Helio v2
 
