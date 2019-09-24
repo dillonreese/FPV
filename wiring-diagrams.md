@@ -11,7 +11,7 @@ Flight Controllers
 ESC
 - [Hobbywing-45a](#hobbywing-45a)
 
-PDB](#PDB)
+PDB
 
 - [Wolf PDB](#wolf-pdb)
 - [Reverb PDB](#reverb-pdb)
