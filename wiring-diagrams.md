@@ -1,6 +1,6 @@
 # Wiring Diagrams
 
-### [Flight Controllers](#flight-controllers)
+Flight Controllers
 - [Kiss v1](#kiss-v1)
 - [Synergy F4](#Synergy-F4)
 - [Helio v2](#helio-v2)
@@ -8,23 +8,25 @@
 - [BrainFPV Radix](#brainfpv-radix)
 - [Omnibus F4 Nano v6](#omnibus-nano-f4-v6)
 
-### [ESC](#ESCs)
+ESC
 - [Hobbywing-45a](#hobbywing-45a)
 
-### [PDB](#PDB)
+PDB](#PDB)
 
 - [Wolf PDB](#wolf-pdb)
 - [Reverb PDB](#reverb-pdb)
 
-### [VTX](#VTX)
+VTX
 - [TBS Unify HV](#tbs-unify-hv)
 - [TBS Unify 5v](#tbs-unify-5v)
 - [TBS Unify Race](#tbs-unify-race)
 - [AKK Mach3](#akk-mach3)
-### [Receiver](#Receivers)
+
+Receiver
 - [FrSky R9 Mini](#frsky-r9-mini)
 - [FrSky R9 Slim+](#frsky-r9-slim)
-### [GPS](#GPS)
+
+GPS
 - [M8N GLONASS GPS Module](#m8n-glonass-gps-module)
 
 ## Flight Controllers
