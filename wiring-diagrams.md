@@ -25,6 +25,7 @@ VTX
 - [Nameless RC 400](#nameless-rc-400)
 
 Receiver
+- [Crossfire Nano](#crossfire-nano)
 - [FrSky R9 Mini](#frsky-r9-mini)
 - [FrSky R9 Slim+](#frsky-r9-slim)
 
@@ -112,6 +113,10 @@ _Ports_
 ![](images/nameless-rc-vtx-400.png)
 
 ## Receivers
+
+### Crossfire Nano
+
+![](images/crsf-nano.png)
 
 ### FrSky R9 Mini
 
