@@ -10,6 +10,7 @@ Flight Controllers
 
 ESC
 - [Hobbywing-45a](#hobbywing-45a)
+- [iFlight Succex 45a](#iflight-succex-45a)
 
 PDB
 
@@ -67,6 +68,10 @@ _Ports_
 ### HobbyWing 45a 
 
 ![](images/hobbywing-45a.png)
+
+### iFlight Succex 45a
+
+![](images/iflight-succex-45a.png)
 
 ## PDB
 
