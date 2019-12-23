@@ -60,6 +60,8 @@ _Ports_
 
 ![](images/radix_fc_overview.png)
 
+![](images/radix-crossfire.png)
+
 ### Omnibus Nano F4 v6
 
 ![](images/Omnibus_F4_Nano_V6.png)
