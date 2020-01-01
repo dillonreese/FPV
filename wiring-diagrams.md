@@ -6,6 +6,7 @@ Flight Controllers
 - [Helio v2](#helio-v2)
 - [Diatone Mamba 20x20](#diatone-mamba-20x20)
 - [BrainFPV Radix](#brainfpv-radix)
+  - [Hardware Manual](https://www.brainfpv.com/knowledgebase/radix-hardware-manual)
 - [Omnibus F4 Nano v6](#omnibus-nano-f4-v6)
 
 ESC
