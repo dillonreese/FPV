@@ -21,6 +21,7 @@ PDB
 
 VTX
 - [TNS Unify EVO](#tbs-unify-evo)
+  - [Hardware manual](https://www.team-blacksheep.com/tbs-unify-evo-manual.pdf)
 - [TBS Unify HV](#tbs-unify-hv)
 - [TBS Unify 5v](#tbs-unify-5v)
 - [TBS Unify Race](#tbs-unify-race)
@@ -104,6 +105,7 @@ _Ports_
 ## VTX
 
 ### TBS Unify EVO
+- [Hardware manual](https://www.team-blacksheep.com/tbs-unify-evo-manual.pdf)
 
 ![](images/unify-evo.jpg)
 
