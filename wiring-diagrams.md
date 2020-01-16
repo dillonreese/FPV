@@ -2,6 +2,7 @@
 
 Flight Controllers
 - [Kiss v1](#kiss-v1)
+- [Kiss v2](#kiss-v2)
 - [Synergy F4](#Synergy-F4)
 - [Helio v2](#helio-v2)
 - [Diatone Mamba 20x20](#diatone-mamba-20x20)
@@ -41,6 +42,12 @@ _Top_
 
 ![](images/kiss-v1-fc-ports.png)
 _Ports_
+
+### Kiss v2
+
+![](images/kiss-v2-2.jpg)
+
+![](images/kiss-v2.png)
 
 ### Synergy F4
 
