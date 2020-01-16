@@ -67,6 +67,7 @@ _Ports_
 ![](images/M_F405_MINI_MK2.png)
 
 ### BrainFPV Radix
+  - [Hardware Manual](https://www.brainfpv.com/knowledgebase/radix-hardware-manual)
 
 ![](images/radix_fc_overview.png)
 
