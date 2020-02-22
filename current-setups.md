@@ -28,6 +28,9 @@ VTX
 Receiver
 - [Crossfire Nano](#crossfire-nano)
 
+Other
+- [Tiny's LEDs](#tiny's-leds-4-led-strip)
+
 ---
 
 ## Flight Controllers
@@ -97,9 +100,16 @@ Receiver
 
 ### Crossfire Nano
 
+- `Ch1=RX`, `Ch2=TX`
+
+
 ![](images/crsf-nano.png)
 
+## Other
 
+### Tiny's LEDs 4 LED Strip
+
+- `S=IN`, `L=OUT`
 
 
 
