@@ -1,5 +1,8 @@
-Steps to take when building a new quad - hardware and software configuration and considerations. 
+- [Current Wiring Diagrams](current-setups.md)
 
-- [KISS Setup](kiss-setup.md)
+- [Previous Wiring Diagrams](previous-setups.md)
 
-- [Wiring Diagrams](wiring-diagrams.md)
+
+<a href="mach3">
+  <img src="images/mach3.png" alt="HTML tutorial" style="width:1000px;height:1000px;border:0">
+</a>
