@@ -22,10 +22,10 @@ PDB
 - [Apex Regulator](#apex-regulator)
 
 VTX
-- [TBS Unify EVO](#tbs-unify-evo)
-  - [Hardware manual](https://www.team-blacksheep.com/tbs-unify-evo-manual.pdf)
 - [TBS Unify HV](#tbs-unify-hv)
 - [TBS Unify 5v](#tbs-unify-5v)
+- [TBS Unify EVO](#tbs-unify-evo)
+  - [Hardware manual](https://www.team-blacksheep.com/tbs-unify-evo-manual.pdf)
 
 Receiver
 - [Crossfire Nano](#crossfire-nano)
@@ -95,11 +95,6 @@ Other
 
 ## VTX
 
-### TBS Unify EVO
-- [Hardware manual](https://www.team-blacksheep.com/tbs-unify-evo-manual.pdf)
-
-![](images/unify-evo.jpg)
-
 ### TBS Unify HV
 
 ![](images/unify-hv.png)
@@ -107,6 +102,11 @@ Other
 ### TBS Unify 5v
 
 ![](images/unify-5v.png)
+
+### TBS Unify EVO
+- [Hardware manual](https://www.team-blacksheep.com/tbs-unify-evo-manual.pdf)
+
+![](images/unify-evo.jpg)
 
 ## Receivers
 
