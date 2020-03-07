@@ -3,11 +3,13 @@
 ## Current Setups
 
 Flight Controllers
+- [Fettec Flight Controller](#fettec)
 - [Kiss v2](#kiss-v2)
 - [Synergy F4](#Synergy-F4)
 - [Diatone Mamba 20x20](#diatone-mamba-20x20)
 
 ESC
+- [Fettec 35A](#fettec-35a)
 - [Kiss 32A](#kiss-32a) 
 - [Holybro Tekko32](#holybro-tekko32) 
 - [iFlight Succex 45a](#iflight-succex-45a)
@@ -35,6 +37,12 @@ Other
 
 ## Flight Controllers
 
+### Fettec Flight Controller
+
+![](images/fettec-fc.png)
+
+![](images/fettec-crossfire-nano-connection.png)
+
 ### Kiss v2
 
 ![](images/kiss-v2-2.jpg)
@@ -54,6 +62,10 @@ Other
 ![](images/M_F405_MINI_MK2.png)
 
 ## ESCs
+
+### Fettec 35A
+
+![](images/fettec-esc-35a.png)
 
 ### KISS 32A 
 

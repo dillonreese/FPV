@@ -8,7 +8,11 @@
 
 ## Configuration
 
-- Set Min Command to 1000 to enable `air mode`.
+Choose `Air mode` or `Idle Up`:
+
+> - **Air Mode** set Min Command to 1000.
+>
+> - **Idle Up: set** Min Throttle to 1050 and Min Command to 1060.
 
 - Set aux channel for `arming`, `buzzer`, and `Turtle mode`.
 
@@ -18,16 +22,12 @@
 
 - Set VTX settings.
 
+- Enable `Emulate with motors`.
+
 ## Data Output
 
 - Test motor direction.
 
 - Check AUX switch channels.
 
-## Rates
 
-||RC Rate|Rate|RC Curve||
-|---|---|---|---|---|
-|Roll |0.8 |0.41 |0.41|   |
-|Pitch|0.8 |0.92 |0.41|   |
-|Yaw  |0.76|0.76 |0.29|   |
