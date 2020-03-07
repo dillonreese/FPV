@@ -3,7 +3,7 @@
 ## Current Setups
 
 Flight Controllers
-- [Fettec Flight Controller](#fettec)
+- [Fettec Flight Controller](#fettec-flight-controller)
 - [Kiss v2](#kiss-v2)
 - [Synergy F4](#Synergy-F4)
 - [Diatone Mamba 20x20](#diatone-mamba-20x20)
