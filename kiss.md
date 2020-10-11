@@ -7,7 +7,7 @@
 - [Flight Controller](#flight-controllers)
     - [KISS v1 Flight Controller](#kiss-v1-flight-controller)
     - [KISS v2 Flight Controller](#kiss-v2-flight-controller)
-- [Back to Main](readme.md)
+- [Back to Main](https://dillonreese.github.io/FPV/)
 ---
 
 ## KISS Default Motor Order
