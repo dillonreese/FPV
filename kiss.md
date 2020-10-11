@@ -1,6 +1,6 @@
 ![KISS Fltctrl](images/kiss-fltctrl.png)
 
-[Back to Main](https://dillonreese.github.io/FPV/)
+[Back to Main](https://dillonreese.github.io/firstpersonview/)
 
 - [ESC](#esc)
     - [KISS Default Motor Order](#kiss-default-motor-order)

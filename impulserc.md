@@ -1,6 +1,6 @@
 ![ImulseRC](images/impulserc.png)
 
-[Back to Main](https://dillonreese.github.io/FPV/)
+[Back to Main](https://dillonreese.github.io/firstpersonview/)
 
 - [Apex](#apex)
     - [Apex OSD](#apex-osd)

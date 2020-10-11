@@ -1,6 +1,6 @@
 # Documentation
 
-[Back to Main](https://dillonreese.github.io/FPV/)
+[Back to Main](https://dillonreese.github.io/firstpersonview/)
 
 ### Fettec
 - [Fettec v1 Flight Controller Manual](https://fettec.net/media/pdf/3c/a7/fd/FETtec_FC_Manual.pdf)

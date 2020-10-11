@@ -8,8 +8,6 @@
 ## [Documentation and Software](documentation-software.md)
 ## [Other](esc-fc-gps.md)
 
-![Exploded Prop Hub](images/exploded-prop-hub.png)
-
 <!--
 ![](images/kiss-fltctrl.png) 
 ![](images/fettec.png)

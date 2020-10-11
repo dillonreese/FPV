@@ -1,6 +1,6 @@
 ![Fettec](images/fettec.png) 
 
-[Back to Main](https://dillonreese.github.io/FPV/)
+[Back to Main](https://dillonreese.github.io/firstpersonview/)
 
 - [ESC](#esc)
     - [Fettec 35a 4in1 ESC](#fettec-35a-4in1-esc)
@@ -16,7 +16,7 @@
 ![Fettec 35a 4in1 ESC](images/fettec-esc-35a.png)
 
 ## Fettec 45a 4in1 ESC
-![Fettec 45a 4in1 ESC](images/fettec-esc-45a.png)
+![Fettec 45a 4in1 ESC](images/fettec-45a-4in1-esc.png)
 ![Fettec 45a 4in1 ESC wiring plan](images/fettec-45a-wiring-plan.png)
 
 # Flight Controller
