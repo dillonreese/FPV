@@ -10,7 +10,6 @@
     - [BetaFPV AIO v3](#betafpv-aio-v3)
     - [BrainFPV Radix](#brainfpv-radix)
     - [CrazyBee F4 Pro v2 (Frsky)](#crazybee-f4-pro-v2-frsky-)
-    - [Omnibus F4 Nano](#omnibus-f4-nano)
     - [Synergy F4](#synergy-f4)
 - [GPS](#gps)
     - [BN-180](#bn-180)
@@ -41,9 +40,6 @@
 
 ## CrazyBee F4 Pro v2 (Frsky)
 ![CrazyBee F4 Pro v2 (Frsky)](images/crazybee-f4-pro-v2.png)
-
-## Omnibus F4 Nano
-![](images/omnibus_f4_nano_v6.png)
 
 ## Synergy F4
 ![Synergy F4 Top](images/synergy-fc-top.png)
