@@ -10,6 +10,9 @@
 - [Fettec 35a ESC Manual](https://fettec.net/media/pdf/3c/9e/a2/FETtec_ESC_35a_Manual.pdf)
 - [Fettec 45a ESC Manual](https://fettec.net/media/pdf/cf/1e/c0/FETtec_ESC_45a_Manual.pdf)
 
+### ImpulseOSD
+- [ImpulseOSD](https://github.com/ImpulseRC/OSD)
+
 ### JESC
 - [JESC Install Instructions](https://jflight.net/index.php?route=information/information&language=en-gb&information_id=7)
 
