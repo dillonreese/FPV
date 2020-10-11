@@ -1,6 +1,11 @@
 # ImpulseRC
 
-[Apex OSD](apex-osd.png)
+- [Apex OSD](#apex-osd)
+- [Apex Regulator](#apex-regulator)
 
-[Apex Regulator](apex-regulator.png)
+## Apex OSD
+![Apex OSD](images/apex-osd.png)
+
+## Apex Regulator 
+![Apex Regulator](images/apex-regulator.png)
 
