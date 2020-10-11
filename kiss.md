@@ -1,5 +1,7 @@
 ![KISS Fltctrl](images/kiss-fltctrl.png)
 
+[Back to Main](https://dillonreese.github.io/FPV/)
+
 - [ESC](#esc)
     - [KISS Default Motor Order](#kiss-default-motor-order)
     - [KISS 32a ESC](#kiss-32a-esc)
@@ -7,7 +9,7 @@
 - [Flight Controller](#flight-controllers)
     - [KISS v1 Flight Controller](#kiss-v1-flight-controller)
     - [KISS v2 Flight Controller](#kiss-v2-flight-controller)
-- [Back to Main](https://dillonreese.github.io/FPV/)
+
 ---
 
 ## KISS Default Motor Order
