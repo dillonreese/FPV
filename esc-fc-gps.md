@@ -1,6 +1,6 @@
 # ESC, FC,  GPS 
 
-[Back to Main](https://dillonreese.github.io/FPV/)
+[Back to Main](https://dillonreese.github.io/firstpersonview/)
 
 - [ESC](#esc)
     - [Hobbywing 45a ESC](#hobbywing-45a)
@@ -46,8 +46,8 @@
 ![](images/omnibus_f4_nano_v6.png)
 
 ## Synergy F4
-![Synergy F4 Top](images/synergy-f4-top.png)
-![Synergy F4 Bottom](images/syngery-f4-bottom.png)
+![Synergy F4 Top](images/synergy-fc-top.png)
+![Synergy F4 Bottom](images/synergy-f4-bottom.png)
 
 # GPS
 
