@@ -37,7 +37,7 @@
 
 ### Kiss v2 Ports Pinout
 
-![kiss v2 ports](images/kiss-v2-ports.PNG)
+![kiss v2 ports](images/kiss-v2-ports.png)
 ![Kiss v2 ports poinout](images/kiss-v2-port-pinout.png)
 
 ### Wiring Plan
