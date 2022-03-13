@@ -2,6 +2,7 @@
 
 [Back to Main](https://dillonreese.github.io/firstpersonview/)
 
+- [Documentation](#documentation)
 - [Crossfire](#crossfire)
     - [Crossfire Nano](#crossfire-nano)
     - [Tango 2](#tango-2)
@@ -12,7 +13,15 @@
     - [Unify Pro HV](#unify-pro-hv)
     - [Unify Pro EVO](#unify-pro-evo)
     - [Unify Pro Race](#unify-pro-race)
-- [Documentation](#documentation)
+
+# Documentation 
+
+- [Crossfire Manual](https://www.team-blacksheep.com/tbs-crossfire-manual.pdf)
+
+- [Tango 2 Manual](https://www.team-blacksheep.com/tbs-tango2-manual.pdf)
+
+- [Unify Pro32 Manual](https://www.team-blacksheep.com/tbs-unify-pro32-manual.pdf)
+- [Unify Pro v3, HV, Race Manual](https://www.team-blacksheep.com/tbs-unify-pro-5g8-manual.pdf)
 
 # Crossfire
 
@@ -46,11 +55,3 @@
 ## Unify Pro Race
 ![](images/tbs-unify-race.png)
 
-# Documentation 
-
-- [Crossfire Manual](https://www.team-blacksheep.com/tbs-crossfire-manual.pdf)
-
-- [Tango 2 Manual](https://www.team-blacksheep.com/tbs-tango2-manual.pdf)
-
-- [Unify Pro32 Manual](https://www.team-blacksheep.com/tbs-unify-pro32-manual.pdf)
-- [Unify Pro v3, HV, Race Manual](https://www.team-blacksheep.com/tbs-unify-pro-5g8-manual.pdf)

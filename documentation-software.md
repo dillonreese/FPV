@@ -16,6 +16,10 @@
 ### JESC
 - [JESC Install Instructions](https://jflight.net/index.php?route=information/information&language=en-gb&information_id=7)
 
+### KISS 
+
+- [KISS Ultra Wiki](https://github.com/KissUltra/wiki/wiki)
+
 ### Team Blacksheep
 
 - [Agent X](http://www.team-blacksheep.com/tbs-agentx-manual.pdf)
@@ -37,6 +41,8 @@
     - [Windows](http://osd-storage.impulserc.com/deploy/setup.exe)
 - [JESC ESC Configurator](https://github.com/jflight-public/jesc-configurator/releases)
 - [KISS GUI](https://github.com/flyduino/kiss-gui/releases)
+- [KISS Ultra Web GUI](https://kiss-ultra.com/gui/#)
+- [KISS ULtra GUI](https://github.com/KissUltra/gui/releases/tag/v3.0.0)
 - [TBS Agent X](https://www.team-blacksheep.com/products/prod:agentx)
     - [Mac](http://agent.team-blacksheep.com/agentx/agentx_v2_macosx.zip)
     - [Windows](http://agent.team-blacksheep.com/agentx/agentx_v2_win.zip)

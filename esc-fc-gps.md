@@ -1,4 +1,4 @@
-# ESC, FC,  GPS 
+# ESC, FC, GPS 
 
 [Back to Main](https://dillonreese.github.io/firstpersonview/)
 
@@ -19,13 +19,14 @@
 
 # ESC
 
-## Hobbywing 45a
-![Hobbywing 45a esc](images/hobbywing-45a.png)
-
 ## Iflight Succex 45a 
 ![Iflight Succex 45a esc](images/iflight-succex-45a.png)
 
 # Flight Controllers
+
+## Iflight Beast F7
+
+![Iflight Beast F7](images/iflight-beast.png)
 
 ## BetaFPV 1-2s Flight Controller
 ![BetaFPV 1-2s Flight Controller Top](images/betafpv-1s2s-board-1.jpg)
