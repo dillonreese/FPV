@@ -1,13 +1,13 @@
 # First Person View
 
-## [Current Hardware](current-hardware.md)
-## [DJI](dji.md)
-## [Fettec](fettec.md)
-## [ImpulseRC](impulserc.md)
-## [KISS](kiss.md)
-## [Team Blacksheep](team-blacksheep.md)
-## [Documentation and Software](documentation-software.md)
-## [Other](esc-fc-gps.md)
+- [Current Hardware](current-hardware.md)
+- [DJI](dji.md)
+- [Fettec](fettec.md)
+- [ImpulseRC](impulserc.md)
+- [KISS](kiss.md)
+- [Team Blacksheep](team-blacksheep.md)
+- [Documentation and Software](documentation-software.md)
+- [Other](esc-fc-gps.md)
 
 
 
