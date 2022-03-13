@@ -1,13 +1,20 @@
 # Current Hardware
 
 - [Flight Controllers](#flight-controllers)
+    - [KISS ULtra](#kiss-ultra)
+    - [Kiss v2 Flight Controller](#kiss-v2-flight-controller)
+    - [Iflight Beast F7](#iflight-beast-f7)
 - [Electronic Speed Controllers](#electronic-speed-controllers)
+    - [KISS 25a 4in1 ESC](#kiss-25a-4in1-esc)
+    - [Hobbywing 60A](#hobbywing-60a)
 - [Receiver](#receiver)
+    - [Crossfire Nano](#crossfire-nano)
 - [Video Transmitters](#video-transmitters)
+
 
 ## Flight Controllers
 
-### KISS ULtra
+### KISS Ultra
 
 ![Kiss Ultra](images/kiss-ultra.jpg)
 
@@ -40,12 +47,17 @@
 ## Receiver
 
 ### Crossfire Nano
+
 ![CRSF nano](images/crsf-nano.png)
 ![Crossfire receiver LED Status](images/crossfire-led.png)
 
 ## Video Transmitters
 
+### Caddx Vista
+
 ![Caddx Vista](images/caddx-vista.png)
+
+### TBS Sixty9
 
 ![TBS Sixty9](images/tbs-sixty9-2.png)
 
