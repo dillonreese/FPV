@@ -6,6 +6,7 @@
     - [Hobbywing 45a ESC](#hobbywing-45a)
     - [Iflight Succex 45a ESC](#iflight-succex-45a)
 - [Flight Controllers](#flight-controllers)
+-   - [Iflight Beast F7](#iflight-beast-f7
     - [BetaFPV 1-2s Flight Controller](#betafpv-1-2s-flight-controller)
     - [BetaFPV AIO v3](#betafpv-aio-v3)
     - [BrainFPV Radix](#brainfpv-radix)
